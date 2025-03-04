@@ -33,11 +33,11 @@ const Dashboard = () => {
                 <div className="bg-white p-6 rounded-lg shadow-lg">
                     <h2 className="text-2xl font-semibold mb-4 text-gray-800">ข้อมูลแคมเปญ</h2>
                     <div className="mb-4">
-                        <p className="text-gray-700 font-bold">แคมเปญที่ 1: "Summer Promo"</p>
+                        <p className="text-gray-700 font-bold">แคมเปญที่ 1: &ldquo;Summer Promo&ldquo;</p>
                         <p className="text-gray-600">Impressions: 50,000 | Clicks: 2,500 | CTR: 5%</p>
                     </div>
                     <div>
-                        <p className="text-gray-700 font-bold">แคมเปญที่ 2: "New Product Launch"</p>
+                        <p className="text-gray-700 font-bold">แคมเปญที่ 2: &ldquo;New Product Launch&ldquo;</p>
                         <p className="text-gray-600">Impressions: 75,000 | Clicks: 3,800 | CTR: 5.07%</p>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ const Dashboard = () => {
                 <ul className="list-disc pl-5 text-gray-700 space-y-2">
                     <li>08:45 AM - JohnDoe อัปโหลดวิดีโอใหม่</li>
                     <li>09:30 AM - ตรวจพบการเรียก API ที่ผิดปกติ</li>
-                    <li>10:15 AM - แคมเปญ "Summer Promo" ถูกอัปเดตข้อมูล</li>
+                    <li>10:15 AM - แคมเปญ &ldquo;Summer Promo&ldquo; ถูกอัปเดตข้อมูล</li>
                     <li>11:00 AM - ส่งการแจ้งเตือนให้ผู้ใช้งาน</li>
                 </ul>
             </div>
